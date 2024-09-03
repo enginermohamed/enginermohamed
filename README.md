@@ -1,11 +1,7 @@
-![MasterHead]([https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/news/research/news/cyber-brain-7633488-1920-crop.jpg?itok=Nxydw-yh](https://qualitastech.com/wp-content/uploads/2020/09/AI-vs-ML-vs-DL-1.jpg
-)https://qualitastech.com/wp-content/uploads/2020/09/AI-vs-ML-vs-DL-1.jpg
-https://qualitastech.com/wp-content/uploads/2020/09/AI-vs-ML-vs-DL-1.jpg
-https://qualitastech.com/wp-content/uploads/2020/09/AI-vs-ML-vs-DL-1.jpg
-https://qualitastech.com/wp-content/uploads/2020/09/AI-vs-ML-vs-DL-1.jpg
-https://qualitastech.com/wp-content/uploads/2020/09/AI-vs-ML-vs-DL-1.jpg
-https://qualitastech.com/wp-content/uploads/2020/09/AI-vs-ML-vs-DL-1.jpg
-)
+![MasterHead](https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/news/research/news/cyber-brain-7633488-1920-crop.jpg?itok=Nxydw-yh)
+![MasterHead](https://github.com/user-attachments/assets/0e7cc2fe-edac-4992-9e42-6aa200fa0e40)
+
+
 <h1 align="center">I'm Mohamed Isak Aden</h1>
 <h3 align="center">RESEARCHER.</h3>
 

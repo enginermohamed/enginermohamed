@@ -1,7 +1,8 @@
-![MasterHead](https://github.com/user-attachments/assets/0e7cc2fe-edac-4992-9e42-6aa200fa0e40)
-<img align="right" alt="Coding" height="350" width="400" src="[https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603.png](https://github.com/user-attachments/assets/0e7cc2fe-edac-4992-9e42-6aa200fa0e40)">
+![MasterHead](https://github.com/user-attachments/assets/7d3c0bdb-9b43-4d2e-aad8-361ef4b20cf3)
+<img align="right" alt="Coding" height="350" width="400" src="https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603.png">
 
-<h1 align="center">I'm Mohamed Isak Aden</h1>
+<h1 align="center">I'm Mohamed Isak Aden</h1>![Logistic-regression-model-scaled](https://github.com/user-attachments/assets/7d3c0bdb-9b43-4d2e-aad8-361ef4b20cf3)
+
 <h3 align="center">RESEARCHER.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enginermohamed&label=Profile%20views&color=0e75b6&style=flat" alt="enginermohamed" /> </p>

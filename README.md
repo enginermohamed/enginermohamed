@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/7d3c0bdb-9b43-4d2e-aad8-361ef4b20cf3)
-<h1 align="center">**Hello! I'm Mohamed Isack Aden**</h1>
-<h3 align="center"> **AI/Computer Vision Researcher** </h3>
+<h1 align="center">Hello! I'm Mohamed Isack Aden</h1>
+<h3 align="center">AI/Computer Vision Researcher</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enginermohamed&label=Profile%20views&color=0e75b6&style=flat" alt="enginermohamed" /> </p>
 
 - 🔭 I’m currently working on **Automatic Licence Car Plate Recognition**

@@ -1,4 +1,5 @@
 ![MasterHead](https://github.com/user-attachments/assets/0e7cc2fe-edac-4992-9e42-6aa200fa0e40)
+<img align="right" alt="Coding" height="350" width="400" src="https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603.png">
 
 <h1 align="center">I'm Mohamed Isak Aden</h1>
 <h3 align="center">RESEARCHER.</h3>

@@ -1,7 +1,5 @@
 ![MasterHead](https://github.com/user-attachments/assets/7d3c0bdb-9b43-4d2e-aad8-361ef4b20cf3)
-<img align="right" alt="Coding" height="350" width="400" src="https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603.png">
-![hpd](https://github.com/user-attachments/assets/6cb3b1c1-39b3-4f19-8156-90d9fb8c8a3a)
-
+<img align="right" alt="Coding" height="350" width="400" src="https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603](https://github.com/user-attachments/assets/6cb3b1c1-39b3-4f19-8156-90d9fb8c8a3a.png">
 <h1 align="center">I'm Mohamed Isak Aden</h1>
 
 <h3 align="center">RESEARCHER.</h3>

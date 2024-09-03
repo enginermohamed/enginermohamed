@@ -1,4 +1,5 @@
-![MasterHead](https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/news/research/news/cyber-brain-7633488-1920-crop.jpg?itok=Nxydw-yh)
+![MasterHead](![Uploading AI.png…]()
+)
 <h1 align="center">I'm Mohamed Isak Aden</h1>
 <h3 align="center">RESEARCHER.</h3>
 

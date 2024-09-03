@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Engr Mohamed Isack Adam Shkh</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Isak Aden</h1>
 <h3 align="center">Artificial Intelligence, Machine Learning, deep learning, Computer Vision Biometrics And Web Application developer Welcome.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enginermohamed&label=Profile%20views&color=0e75b6&style=flat" alt="enginermohamed" /> </p>
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/engr mohamed i. adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="engr mohamed i. adam" height="30" width="40" /></a>
-<a href="https://medium.com/mohamed isack adam engrmohamed71@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mohamed isack adam engrmohamed71@gmail.com" height="30" width="40" /></a>
+<a href="https://medium.com/mohamed isack adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mohamed isack adam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

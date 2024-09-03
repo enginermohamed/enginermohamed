@@ -1,5 +1,4 @@
-![MasterHead](![Uploading AI.png…]()
-)
+![MasterHead]([https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/news/research/news/cyber-brain-7633488-1920-crop.jpg?itok=Nxydw-yh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shaip.com%2Fblog%2Fautomatic-number-plate-recognition-anpr%2F&psig=AOvVaw2XalIn0M7egCgsBnxRZ-5-&ust=1725473565029000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICBxYmwp4gDFQAAAAAdAAAAABAE))
 <h1 align="center">I'm Mohamed Isak Aden</h1>
 <h3 align="center">RESEARCHER.</h3>
 

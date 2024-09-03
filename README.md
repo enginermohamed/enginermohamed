@@ -23,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enginermohamed&show_icons=true&locale=en&layout=compact" alt="enginermohamed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enginermohamed&show_icons=true&locale=en" alt="enginermohamed" /></p>
-![A-6](https://github.com/user-attachments/assets/0650e4d6-1f83-4de8-af0c-9cee161e967e)

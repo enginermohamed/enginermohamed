@@ -27,5 +27,5 @@
 
 
 
-![A-6](https://github.com/user-attachments/assets/ff2550f4-87d6-438f-8988-5e5113752420)
+<img align="right" alt="Coding" height="350" width="400" ![A-6](https://github.com/user-attachments/assets/ff2550f4-87d6-438f-8988-5e5113752420) >
 

@@ -3,7 +3,6 @@
 <h3 align="center">AI/Computer Vision Researcher</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enginermohamed&label=Profile%20views&color=0e75b6&style=flat" alt="enginermohamed" /> </p>
 
-- 🔭 I’m currently working on **Automatic Licence Car Plate Recognition**
 
 - 🌱 I’m currently learning **Ai,Machine learning,Deep Learning,Computer Vision, Python**
 
